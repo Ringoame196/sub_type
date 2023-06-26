@@ -1,0 +1,7 @@
+name: sub_type
+version: '${project.version}'
+main: com.github.ringoame196.sub_type.Sub_type
+commands:
+  subtype:
+    description: subtype用のコマンド
+    usage: /subtype <入力>
